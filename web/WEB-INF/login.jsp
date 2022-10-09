@@ -25,7 +25,7 @@
         </div>
         <br>
         <div>
-            <span>${message}</span>
+            <span>${note}</span>
         </div>
                     
           
